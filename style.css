@@ -1,0 +1,17 @@
+/* 
+author:vikash chandra maurya
+version:1.0
+ */
+
+ .text-center{
+     text-align: center;
+ }
+
+ .row{
+     width: 90%;
+     margin:50px auto;
+ }
+
+ .m-top{
+     margin-top: 50px;
+ }
